@@ -6,4 +6,6 @@ public class HomePage {
 
 
     // new menu to follow up
+
+    //log
 }
