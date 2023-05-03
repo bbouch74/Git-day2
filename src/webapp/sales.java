@@ -11,4 +11,7 @@ public class sales {
     //....
 
     // more sles added
+
+    // added holiday sales 15% off
+    // deals
 }
